@@ -1,0 +1,25 @@
+body{
+    color: #373737;
+    background: white;
+    transition: all .3s ease;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.dark-theme{
+    color: white;
+    background: #373737;
+}
+
+.btn{
+    border: 1px solid red;
+    border-radius: 50px;
+
+}
